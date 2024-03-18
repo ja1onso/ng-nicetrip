@@ -1,0 +1,27 @@
+<p>stage-viewer works!</p>
+<ng-template [ngIf]="stages.length" [ngIfElse]="noResults">
+  <table style="width:100%">
+    <thead>
+      <tr>           
+        <th style="text-align: left;">ID</th>
+        <th style="text-align: left;">NAME</th>
+        <th style="text-align: left;">DATE</th>
+        <th style="text-align: left;">LOCATIONS</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let stage of stages">           
+        <td>{{ stage.id }}</td>
+        <td>{{ stage.name }}</td>
+        <td>{{ stage.date }}</td>
+        <td>{{ stage.locations.length }}</td>
+      </tr>
+    </tbody>
+  </table>
+</ng-template>
+
+<ng-template #noResults>
+  <div>
+    <p>There is no stages to show.</p>
+  </div>
+</ng-template>

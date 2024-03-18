@@ -1,0 +1,33 @@
+{
+  "stages": [
+    {
+      "name": "Isla de Java",
+      "date": "2022-05-30",
+      "description": "Bienvenidos a Jakarta, ciudad metropolitana y capital de la República de Indonesia. Tras pasar el control de inmigración en el aeropuerto, cambiaremos de terminal para tomar el vuelo a Yogyakarta, la cuna de la cultura indonesia y destino turístico que destaca por sus antiguos palacios, templos, talleres de batik, orquestas de música gamelan, danzas de corte y espectáculos de títeres wayang. A la llegada al aeropuerto de Yogyakarta un representante de la agencia nos estará esperando para comenzar a explorar esta ciudad tan especial. Haremos el check in en el hotel y saldremos a visitar el templo de Ratu Boko a la hora de puesta de sol.",
+      "locations": [],
+      "id": 1
+    },
+    {
+      "name": "Isla de Java",
+      "date": "2022-05-31",
+      "description": "Hoy visitaremos el Kraton o Palacio del Sultán, complejo edificio de dos siglos de antigüedad, situado en pleno corazón de la ciudad. Visitaremos el mercado de las aves y el Castillo del Agua que ocupa la parte más alta en el extremo septentrional del vasto complejo de Taman Sari. Por la tarde, visitaremos Candi Prambanan, el templo de los hinduistas y clasificado como Patrimonio de la Humanidad por la Unesco desde el año 1991. Este templo se terminó de construir hacia el año 856 para conmemorar la victoria del descendiente Sanjaya de Siva, Rikai Pikatan sobre el último soberano Sailendra de Java Central.",
+      "locations": [],
+      "id": 2
+    },
+    {
+      "name": "Isla de Java",
+      "date": "2022-06-01",
+      "description": "Hoy visitaremos al Templo de Borobudur o la gran Stupa, el mayor monumento budista del mundo y una de las siete maravillas. Históricamente el templo de Borobudur fue realizado durante la relativamente breve dinastía Sailendra de Java Central entre los años 778 y 856 antes de Cristo y se encuentra en constante restauración debido a las roturas que los temblores del vecino volcán Merapi ha ido produciendo durante su historia. Despues de la visita a Borobudur, visitaremos algunos de los pueblos que rodean al templo en carro de caballo. Estos pueblos, son auténticos pueblos auténticos Javaneses donde la cultura y la tradición son los protagonistas. A medida que pasen los días en este país y vayamos recorriendo las diferentes islas, seremos conscientes de lo diferentes que son los indonesios entre ellos en cuanto a vestimentas, comida, arquitectura e incluso idioma. Al final del día, continuaremos hacia la ciudad de Semarang donde nos alojaremos pero antes, visitaremos la colorida villa de Kampung Pelangi.",
+      "locations": [
+        {
+          "name": "Candi Borobudur",
+          "description": "El templo de Borobudur es una estupa budista con silueta piramidiforme construída entre los años 750 y 850 por los soberanos de la dinastía Sailendra. Es el templo budista más grande del mundo, consta de seis plataformas cuadradas coronadas por tres plataformas circulares y está decorado infinidad de paneles de relieve y numerosas estatuas de Buda.El monumento es un santuario y lugar de peregrinaje budista. El viaje de los peregrinos comienza en la base del monumento y continúa por un camino que lo rodea, mientras asciende hasta la cima a través de los tres niveles de la cosmología budista. Durante el viaje, el monumento guía a los peregrinos a través de un sistema de escaleras y corredores.La evidencia sugiere que Borobudur fue abandonado tras el siglo XIV con el ocaso de los reinos budistas e hindúes en Java, y la conversión de los isleños al Islam.2​ Fue descubierto en 1814 por Thomas Stamford Raffles, gobernador británico de Java. Desde entonces, Borobudur ha sido conservado mediante numerosas restauraciones. El proyecto de restauración más importante fue llevado a cabo entre 1975 y 1982 por el Gobierno de Indonesia y la Unesco, tras lo cual el monumento fue nombrado Patrimonio de la Humanidad.3​ Borobudur es aún utilizado como lugar de peregrinación, donde una vez al año los budistas de Indonesia celebran el Vesak en el monumento. Además, Borobudur es la atracción turística más visitada de Indonesia.",
+          "lat": "-7.607570714185953",
+          "long": "110.20371374641041",
+          "type": "monument"
+        }
+      ],
+      "id": 3
+    }
+  ]
+}

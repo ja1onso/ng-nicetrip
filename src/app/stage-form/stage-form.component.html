@@ -1,0 +1,46 @@
+<form [formGroup]="stageForm" (ngSubmit)="onSubmit()">
+    <div>Stage name:</div>
+    <input type="text" formControlName="name" required>
+    <div>Stage date:</div>
+    <input type="date" formControlName="date">
+    <div>Stage description:</div>
+    <textarea name="" id="" cols="30" rows="5" formControlName="description"></textarea>
+    <div>
+      <span>LOCATIONS</span>
+      <button (click)="addLocation()">(+)</button>
+    </div>
+    <div class="add-lessons-form">
+      <ng-container formArrayName="locations">
+        <div *ngFor="let locationForm of locations.controls; let i = index">
+          <div style="display: flex;gap: 48px;align-items: center">
+            <form class="locations-form-group" [formGroup]="locationForm">
+              Location {{ i }}
+              <div>Location name</div>
+              <input type="text" formControlName="name">
+              <div>Location description</div>
+              <textarea name="" id="" cols="30" rows="5" formControlName="description"></textarea>
+              <div>Location lat</div>
+              <input type="text" formControlName="lat">
+              <div>Location long</div>
+              <input type="text" formControlName="long">
+              <div>Location type</div>
+              <select formControlName="type" id="">
+                  <option value="airport">Airport</option>
+                  <option value="hotel">Hotel</option>
+                  <option value="monument">Monument</option>
+                  <option value="nature">Nature</option>
+              </select>
+            </form>
+            <button (click)="deleteLocation(i)">Remove location</button>
+          </div>
+        </div>
+      </ng-container>
+    </div>
+    <button type="submit" [disabled]="!stageForm.valid">Submit</button>
+  </form>
+  <p>
+    Form Value: {{ stageForm.value | json }}
+  </p>
+  <p>
+    Form Status: {{ stageForm.status }}
+  </p>

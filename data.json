@@ -1,0 +1,806 @@
+
+[{
+    "order": 1,
+    "date": "30 de Mayo",
+    "island": "Isla de Java",
+    "locations": [
+        {
+            "id": 1,
+            "label": "Aeropuerto de Jakarta",
+            "lat": -6.19138433712882, 
+            "lng": 106.8440013947889,
+            "type": "flight_takeoff",
+            "description":"Aeropuerto Internacional Soekarno-Hatta en Jakarta",
+            "img": "assets/jakarta-airport.jpg" 
+        },
+        {
+            "id": 2,
+            "label": "Aeropuerto de Yogyakarta",
+            "lat": -7.7956781393307955,
+            "lng": 110.37015555608066,
+            "type": "flight_land",
+            "description":"Aeropuerto Internacional de Yogyakarta",
+            "img": "assets/yogjakarta-airport.jpg" 
+        },
+        {
+            "id": 3,
+            "label": "Ratu Boko",
+            "lat": -7.744917827384563,
+            "lng": 110.48291270045232,
+            "type": "fort",
+            "description":"Conjunto arqueológico ubicado en Yogyakarta, a unos tres kilómetros al sur del complejo de Prambanan.\nEl sitio cubre 16 hectáreas de dos aldeas de los pueblos de Bokoharjo y Prambanan y su elevación de unos 196 m sobre el nivel del mar lo convierte en el punto más alto del sitio y desde el que se puede ver una vista panorámica del templo de Prambanan con el monte Merapi al fondo.\nEl nombre original y la función de este sitio no están claros, sin embargo los habitantes locales nombraron este sitio en honor al legendario rey Boko.",
+            "img": "assets/ratuboko.jpg"
+        },
+        {
+            "id": 4,
+            "label": "The Phoenix Hotel Yogyakarta",
+            "lat": -7.782447304764076,
+            "lng":  110.36846368463078,
+            "type": "hotel",
+            "description":"The Phoenix Hotel Yogyakarta - MGallery Collection",
+            "img": "assets/phoenix-hotel.jpg"
+        }
+    ]
+},
+{
+    "order": 2,
+    "date": "31 de Mayo",
+    "island": "Isla de Java",
+    "locations": [
+        {
+            "id": 5,
+            "label": "Palacio del Sultán",
+            "lat": -7.805119743700079,
+            "lng": 110.36429429510987,
+            "type": "castle",
+            "description":"El Palacio del Sultán o Kraton de Yogyakarta es un conjunto palaciego donde vive el Sultán, heredero del título siguiendo la tradición.El conjunto no sólo está habitado por el Sultán ya que en la zona que ocupaban los jardines del Sultán se ha levantado un vecindario donde viven casi 30.000 personas.Este hecho, en lugar de restar romanticismo a la visita, le otorga un atractivo añadido, ya que de esta manera es posible combinar la visita histórica con una visión más actual de la ciudad; por ejemplo, picoteando entre los puestos de su mercado.Dentro lo que antiguamente fueran los terrenos del Palacio se encuentran salpicados diferentes ruinas y edificios, como el Castillo del Agua, que tras someterse a trabajos de restauración hoy día nos permiten recordar la época de esplendor del Sultanato.El Kraton de Yogyakarta hace también las veces de museo. En sus salas pueden contemplarse vestidos, mobiliario y otros objetos que ofrecen una visión muy amplia de la cultura de esta zona de la isla. De hecho, el propio edificio es un magnífico exponente de la arquitectura tradicional javanesa.",
+            "img": "assets/palacio-sultan.jpg"
+        },
+        {
+            "id": 6,
+            "label": "Taman Sari - Castillo del Agua",
+            "lat": -7.809869271095012,
+            "lng": 110.35942286262961,
+            "type": "castle",
+            "description":"El Castillo del Agua o Tamán Sari es un complejo de palacios y piscinas utilizado en su origen por el sultán como zona de recreo. Sus paredes de color claro le dan un aire un tanto colonial lejos del títpico corte asiático o javanés.Con un aire un tanto colonial y un color claro en sus paredes, no es un edificio con el típico corte asiático ni tampoco javanés. Fue construido por un arquitecto portugués y se dice que tiene habitaciones secretas donde el sultán y su séquito disfrutaban de diferentes placeres.",
+            "img": "assets/taman-sari.jpg"
+        },
+        {
+            "id": 7,
+            "label": "Candi Prambanan",
+            "lat": -7.751124497830895, 
+            "lng": 110.49140329882025,
+            "type": "temple_hindu",
+            "description":"Construido en el siglo X, este conjunto monumental es el más grande de los dedicados al culto de Siva en Indonesia. En medio del último de los recintos cuadrados concéntricos se alzan tres templos consagrados a cada una de las deidades principales del hinduismo: Siva, Visnú y Brahma. Estos santuarios están ornamentados con relieves ilustrativos de la epopeya del Ramayana. Junto a ellos se alzan otros tres templos dedicados a los animales que sirven de montura a esos dioses",
+            "img": "assets/candi-prambanan.jpg"
+        },
+        {
+            "id": 8,
+            "label": "Sarasvati Borobudur Hotel",
+            "lat": -7.607342454827063,
+            "lng":  110.21047289035776,
+            "type": "hotel",
+            "description":"Sarasvati Borobudur Hotel",
+            "img": "assets/sarasvati-hotel.jpg"
+        }
+    ]
+},
+{
+    "order": 3,
+    "date": "1 de Junio",
+    "island": "Isla de Java",
+    "locations": [
+        {
+            "id": 9,
+            "label": "Candi Borobudur",
+            "lat": -7.607570714185953,
+            "lng": 110.20371374641041,
+            "type": "temple_buddhist",
+            "description":"El templo de Borobudur es una estupa budista con silueta piramidiforme construída entre los años 750 y 850 por los soberanos de la dinastía Sailendra. Es el templo budista más grande del mundo, consta de seis plataformas cuadradas coronadas por tres plataformas circulares y está decorado infinidad de paneles de relieve y numerosas estatuas de Buda.El monumento es un santuario y lugar de peregrinaje budista. El viaje de los peregrinos comienza en la base del monumento y continúa por un camino que lo rodea, mientras asciende hasta la cima a través de los tres niveles de la cosmología budista. Durante el viaje, el monumento guía a los peregrinos a través de un sistema de escaleras y corredores.La evidencia sugiere que Borobudur fue abandonado tras el siglo XIV con el ocaso de los reinos budistas e hindúes en Java, y la conversión de los isleños al Islam.2​ Fue descubierto en 1814 por Thomas Stamford Raffles, gobernador británico de Java. Desde entonces, Borobudur ha sido conservado mediante numerosas restauraciones. El proyecto de restauración más importante fue llevado a cabo entre 1975 y 1982 por el Gobierno de Indonesia y la Unesco, tras lo cual el monumento fue nombrado Patrimonio de la Humanidad.3​ Borobudur es aún utilizado como lugar de peregrinación, donde una vez al año los budistas de Indonesia celebran el Vesak en el monumento. Además, Borobudur es la atracción turística más visitada de Indonesia.",
+            "img": "assets/candi-borobudur.jpg"
+        },
+        {
+            "id": 10,
+            "label": "Pueblo de Candirejo",
+            "lat": -7.623251159134602,
+            "lng":  110.22875848731222,
+            "type": "holiday_village",
+            "description":"Candirejo Village se encuentra en el distrito de Borobudur, a unos 3 kilómetros al sureste del templo de Borobudur en Magelang, Java Central. El pueblo se encuentra en medio de exuberantes campos verdes y selvas tropicales, y está poblado de gente amable. Se dice que Candirejo es un símbolo de la cultura javanesa donde los visitantes pueden experimentar y participar en una variedad de atracciones y actividades culturales. Muchas artesanías caseras y recuerdos también se hacen aquí, como camas, bancos y estanterías de bambú, y bolsas y esteras hechas de pandanus; todos los cuales están disponibles para su compra. La palabra Candirejo es una combinación de dos palabras javanesas: Candi y Rejo. Candi significa templo, pero también puede significar piedra, y Candirejo es una zona bastante pedregosa. La palabra Rejo significa fértil, por lo que cuando se juntó, Candirejo recibió su nombre como la tierra que estaba llena de piedras, pero que aún así seguía siendo fértil.",
+            "img": "assets/candirejo.jpg"
+        },
+        {
+            "id": 11,
+            "label": "Pueblo de Kampung Pelangi",
+            "lat": -6.988316796390847, 
+            "lng": 110.40841565553559,
+            "type": "holiday_village",
+            "description":"Kampung Pelangi es un pequeño pueblo que cuenta con 232 casas y completamente pintado por sus habitantes transformándolo en un todo multicolor. Desde entonces, Kampung Pelangi es más una obra de arte en sí que un lugar en ruinas. Y lo que es mejor para el barrio, debido a este cambio extremo los turistas acuden a contemplar este arco iris que componen las viviendas en su conjunto, con mensajes e imágenes positivas que transmiten la alegría pintada en sus paredes.",
+            "img": "assets/kampung-pelangi.jpg"
+        },
+        {
+            "id": 12,
+            "label": "Gumaya Towers Hotel",
+            "lat": -6.9777307911666195,
+            "lng": 110.42015344798519,
+            "type": "hotel",
+            "description":"Gumaya Towers Hotel",
+            "img": "assets/semarang-hotel.jpg"
+        }
+    ]
+},
+{
+    "order": 4,
+    "date": "2 de Junio",
+    "island": "Isla de Borneo",
+    "locations": [
+        {
+            "id": 13,
+            "label": "Aeropuerto de Semarang",
+            "lat": -6.977358041848934,
+            "lng": 110.3773177525397,
+            "type": "flight_takeoff",
+            "description":"Aeropuerto Internacional Jenderal Ahmad Yani en Semarang",
+            "img": "assets/semarang-airport.jpg"
+        },
+        {
+            "id": 14,
+            "label": "Aeropuerto de Pangkalan Bun",
+            "lat": -2.7008304225587465, 
+            "lng":  111.66956125864924,
+            "type": "flight_land",
+            "description":"Aeropuerto de Iskandar en Pangkalan Bun",
+            "img": "assets/iskandar-airport.jpg"
+        },
+        {
+            "id": 15,
+            "label": "Puerto de Kumai",
+            "lat": -2.739347242200113,
+            "lng": 111.7285905560935,
+            "type": "directions_boat",
+            "description":"PUerto de Kumai",
+            "img": "assets/kumai-port.jpg"
+        },
+        {
+            "id": 16,
+            "label": "Parque Nacional Tanjung Puting",
+            "lat": -3.048116072007129,
+            "lng": 111.91752128216078,
+            "type": "forest",
+            "description":"El Parque Nacional de Tanjung Puting se encuentra en la isla de Borneo, en la provincia de Kalimantan Central. El parque es famoso por su conservación del orangután. Se compone de 415.040 hectáreas de tierras secas dipterocarpáceas, manglares y bosques costeros playa y bosques secundarios.A pesar de ser un parque nacional protegido, aproximadamente el 65% de bosque primario del parque está degradado. La pérdida de su hábitat natural es la mayor amenaza para la vida silvestre.El parque fue creado en la década de 1930 por el gobierno colonial holandés con el fin de proteger principalmente las poblaciones de orangután de Borneo (Pongo pygmaeus), mono narigudo (Nasalis larvatus) y rinoceronte de Sumatra (Dicerorhinus sumatrensis).En 1977 fue designado como Reserva de la Biosfera de la UNESCO y en 1982 como parque nacional por el Gobierno Indonesio.",
+            "img": "assets/tanjung-puting.jpeg"
+        },
+        {
+            "id": 17,
+            "label": "Noche a bordo de un \"klotok\"",
+            "lat": -2.704238989199234, 
+            "lng": 111.90315944629556,
+            "type": "houseboat",
+            "description":"Un klotok es una pequeña embarcación que navega por los ríos de Indonesia. Recibe su nombre del ruido que hace el motor. En la isla de Kalimantán se usan para llevar a los turistas por la selva de Borneo, en el parque nacional de Tanjung Puting y ver los centros de rehabilitación de orangutanes.",
+            "img": "assets/klotok-boat.jpg"
+        }
+    ]
+},
+{
+    "order": 5,
+    "date": "3 de Junio",
+    "island": "Isla de Borneo",
+    "locations": [
+        {
+            "id": 18,
+            "label": "Campamento Tanggui",
+            "lat": -2.7902110821293764,
+            "lng": 111.87825720174392,
+            "type": "forest",
+            "description":"El Parque Nacional Tanjung Puting fue fundado en 1970 como el primer lugar en Indonesia en convertirse en una Reserva para los orangutanes. Ahora hay tres lugares de rehabilitación de orangutanes, Tanjung Harapan, Pondok Tanggui y Camp Leakey. El Parque Nacional Tanjung Puting en Kalimantan Central Indonesia La isla de Borneo es el lugar para los orangutanes semisalvajes y salvajes en medio de la selva tropical principal. La flora y la fauna del Parque Nacional Tanjung Puting es una riqueza ecológica, desde manglares costeros, pantanos y bosques tropicales de tierras bajas hasta selvas densas. La vida silvestre es exótica, orangután, solo se encuentra en Sumatra y Borneo, junto con los monos narigudos endémicos y otros habitantes del bosque, incluidos el leopardo nublado, el mono hoja, el macaco, el oso hormiguero pangolín, el tarsero diminuto, lagartos, cocodrilos, pitones y más de 600 especies de aves como los más famosos Sun Birds, faisanes, Kakatua y Hornbills.",
+            "img": "assets/tanggui-camp.jpg"
+        },
+        {
+            "id": 19,
+            "label": "Campamento Leakey,",
+            "lat": -2.757202526989297, 
+            "lng":  111.94363216228776,
+            "type": "forest",
+            "description":"El Parque Nacional Tanjung Puting fue fundado en 1970 como el primer lugar en Indonesia en convertirse en una Reserva para los orangutanes. Ahora hay tres lugares de rehabilitación de orangutanes, Tanjung Harapan, Pondok Tanggui y Camp Leakey. El Parque Nacional Tanjung Puting en Kalimantan Central Indonesia La isla de Borneo es el lugar para los orangutanes semisalvajes y salvajes en medio de la selva tropical principal. La flora y la fauna del Parque Nacional Tanjung Puting es una riqueza ecológica, desde manglares costeros, pantanos y bosques tropicales de tierras bajas hasta selvas densas. La vida silvestre es exótica, orangután, solo se encuentra en Sumatra y Borneo, junto con los monos narigudos endémicos y otros habitantes del bosque, incluidos el leopardo nublado, el mono hoja, el macaco, el oso hormiguero pangolín, el tarsero diminuto, lagartos, cocodrilos, pitones y más de 600 especies de aves como los más famosos Sun Birds, faisanes, Kakatua y Hornbills.",
+            "img": "assets/leakey-camp.jpg"
+        },
+        {
+            "id": 20,
+            "label": "Noche a bordo de un Klotok",
+            "lat": -2.704238989199234, 
+            "lng": 111.90315944629556,
+            "type": "houseboat",
+            "description":"Un klotok es una pequeña embarcación que navega por los ríos de Indonesia. Recibe su nombre del ruido que hace el motor. En la isla de Kalimantán se usan para llevar a los turistas por la selva de Borneo, en el parque nacional de Tanjung Puting y ver los centros de rehabilitación de orangutanes.",
+            "img": "assets/klotok-boat.jpg"
+        }
+    ]
+},
+{
+    "order": 6,
+    "date": "4 de Junio",
+    "island": "Isla de Java",
+    "locations": [
+        {
+            "id": 21,
+            "label": "Aeropuerto de Pangkalan Bun",
+            "lat": -2.7008304225587465, 
+            "lng":  111.66956125864924,
+            "type": "flight_takeoff",
+            "description":"Aeropuerto de Iskandar en Pangkalan Bun",
+            "img": "assets/iskandar-airport.jpg"
+        },
+        {
+            "id": 22,
+            "label": "Aeropuerto de Surabaya",
+            "lat": -7.374945176428305,  
+            "lng":  112.78629379421304,
+            "type": "flight_land",
+            "description":"Aeropuerto Internacional Juanda en Surabaya",
+            "img": "assets/surabaya-airport.jpg"
+        },
+        {
+            "id": 23,
+            "label": "Hotel Jiwa Jawa Bromo",
+            "lat": -7.916364635929152, 
+            "lng":  112.98536846923825,
+            "type": "hotel",
+            "description":"Hotel Jiwa Jawa Bromo",
+            "img": "assets/jiwajawa-hotel.jpg"
+        }
+    ]
+},
+{
+    "order": 7,
+    "date": "5 de Junio",
+    "island": "Isla de Java",
+    "locations": [
+        {
+            "id": 24,
+            "label": "Mountain View - Puncak B29/B30",
+            "lat": -7.955991775229175, 
+            "lng":  112.99466595743309,
+            "type": "wallpaper",
+            "description":"La gente dice que Puncak View B29 es un país por encima de las nubes y es que desde este pico puedes ver el monte Bromo, el monte Batok, el monte Raung y el gran monte Semeru.",
+            "img": "assets/puncak-view.jpg"
+        },
+        {
+            "id": 25,
+            "label": "Subida al cráter del volcán Bromo",
+            "lat": -7.9400831963465555,   
+            "lng":  112.95253159955611,
+            "type": "volcano",
+            "description":"En la zona oriental de la isla indonesia se encuentra el Parque Nacional de Bromo Tengger Semeru que está emplazado en una amplia región volcánica. En él se encuentra el monte Bromo, un volcán activo de más de 2.300 metros de altura. No es el más alto de la zona, pero sí se trata del más popular y visitado.Bromo se ha convertido en uno de los principales atractivos de la isla de Java y en uno de sus lugares más emblemáticos. En sus alrededores habitan los miembros de la tribu  Tengger, un pueblo javanés formado por descendientes del antiguo imperio Mayapajit, un reino que alcanzó su mayor esplendor en el siglo XIV. Actualmente, este grupo étnico hinduista tiene un papel activo en el mantenimiento y conservación del territorio en el que se encuentra el volcán Bromo. Su forma de vida es sencilla y su economía está basada en la agricultura.Ascender al cráter del volcán Bromo es toda una aventura que pondrá a prueba nuestra buena forma física, ya que debemos subir más de 200 escalones hasta la cumbre. En el camino de ascenso existen diferentes puntos de parada, dispuestos a modo de miradores, que nos invitan a contemplar la gran belleza del entorno. De fondo también alcanzamos a ver el monte Semeru, el pico más alto de Java.",
+            "img": "assets/bromo-crater.jpg"
+        },
+        {
+            "id": 26,
+            "label": "Hotel Jiwa Jawa Ijen",
+            "lat": -8.174944218640254, 
+            "lng":  114.25980874225704,
+            "type": "hotel",
+            "description":"Hotel Jiwa Jawa Ijen",
+            "img": "assets/jiwajawaijen-hotel.jpg"
+        }
+    ]
+},
+{
+    "order": 8,
+    "date": "6 de Junio",
+    "island": "Java y Bali",
+    "locations": [
+        {
+            "id": 27,
+            "label": "Aldea de Licin",
+            "lat": -8.191803973666898,
+            "lng":  114.26557777891443,
+            "type": "holiday_village",
+            "description":"El tranquilo pueblo de Licin está situado en la regencia de Banyuwangi en Java Oriental, Indonesia. Está a 30 minutos en coche de la ciudad de Banyuwangi, el extremo más oriental de Java, y a una hora de las laderas de Kawah Ijen, el legendario volcán famoso por sus llamas de color azul eléctrico. A menudo se usa como base para hacer senderismo por el cráter más fascinante del mundo, y los extranjeros suelen pasar por él.",
+            "img": "assets/licin-village.jpg"
+        },
+        {
+            "id": 28,
+            "label": "Subida al cráter del volcán Ijen",
+            "lat": -8.062930957232398, 
+            "lng":  114.24605743144006,
+            "type": "volcano",
+            "description": "Localizado en el este de la isla de Java, en las cercanías de Banyuwangi, el Volcán Ijen es uno de los principales atractivos que tiene la isla y uno de los volcanes más importantes de Java. Atraídos por sus famosas Llamas Azules de su cráter, el Volcán Ijen recibe todos los años la visita de miles de personas. La ascensión como tal se compone de unos 40 minutos de caminata desde el campo base o acceso al volcán. Esta caminata no requiere mucho esfuerzo físico salvo en la parte final del tramo. Tras la llegada a la cima del volcán se puede observar el famoso cráter con aguas sulfurosas. Mucho de los turistas lo que buscan es bajar hasta abajo para intentar contemplar (sólo se pueden ver de noche) las famosa Llamás Azules. Estas Llamás Azules se forman por los vapores sulfurosos que emanan del cráter, de hecho el propio volcán es una mina al aire libre de azufre, con cientos de trabajadores, que realizan su labor en unas pésimas condiciones, sin equipo ni protecciones. Para poder visitar esta zona es importante hacerlo con una máscara anti gas pues el riesgo de intoxicaciones es alto.",
+            "img": "assets/ijen-crater.jpg"
+        },
+        {
+            "id": 29,
+            "label": "Puerto de Banyuwangui",
+            "lat": -8.142067990312652,
+            "lng":  114.39959373939601,
+            "type": "directions_boat",
+            "description": "Puerto de Banyuwangui",
+            "img": "assets/banyuwangui-port.jpg"
+        },
+        {
+            "id": 30,
+            "label": "Puerto de Bali",
+            "lat": -8.160753804993353,
+            "lng":  114.43684194587603,
+            "type": "directions_boat",
+            "description": "Puerto de Bali",
+            "img": "assets/gilimanuk-bali-port.jpg"
+        },
+        {
+            "id": 31,
+            "label": "Hotel Tejaprana Resort",
+            "lat": -8.410779600722787,
+            "lng":  115.2697622801923,
+            "type": "hotel",
+            "description": "Hotel Tejaprana Resort",
+            "img": "assets/tejaprana-hotel.jpg"
+        }
+    ]
+},
+{
+    "order": 9,
+    "date": "7 de Junio",
+    "island": "Isla de Bali",
+    "locations": [
+        {
+            "id": 32,
+            "label": "Hotel Tejaprana Resort",
+            "lat": -8.410779600722787,
+            "lng":  115.2697622801923,
+            "type": "hotel",
+            "description": "Hotel Tejaprana Resort",
+            "img": "assets/tejaprana-hotel.jpg"
+        }
+    ]
+},
+{
+    "order": 10,
+    "date": "8 de Junio",
+    "island": "Isla de Bali",
+    "locations": [
+        {
+            "id": 33,
+            "label": "Templo Taman Ayun",
+            "lat": -8.541511284480464,
+            "lng":  115.17261144793842,
+            "type": "temple_hindu",
+            "description": "El Templo Taman Ayun fue fundado en el siglo XVII y está situado en el Pueblo de Mengwi que hasta 1891 fue la sede de un poderoso que se remonta a la Dinastía Gelgel. Está rodeado por un foso que parece un santuario ajardinado, lo que explica el término taman o jardín. El templo es un penyawangan o lugar para rendir culto a otros sitios sagrados.",
+            "img": "assets/taman-ayun.jpg"
+        },
+        {
+            "id": 34,
+            "label": "Jatiluwih",
+            "lat": -8.37001278643232,
+            "lng": 115.13137199807699,
+            "type": "wallpaper",
+            "description": "Las terrazas arrozales de Jatiluwih abarcan todo el paisaje de Bali Meridional. El nombre de Jatiluwih está compuesto por dos palabras, Jati que significa realmente y Luwih que significa bello, bueno, especial, hermosa. Sin la menor duda, este lugar no solamente tiene un nombre hermoso sino que su hermosura, realmente se refleja en su paisaje.",
+            "img": "assets/jatiluwih.jpg"
+        },
+        {
+            "id": 35,
+            "label": "Templo Ulun Danu Bratan",
+            "lat": -8.274862180027393,
+            "lng":  115.16686631342125,
+            "type": "temple_hindu",
+            "description": "Famoso templo que se levanta en un pequeño promontorio situado en la orilla de Lago de Beratancon con el lago y la montaña como telón de fondo. Es sin lugar a duda, uno de lostemplos más fotogénicos de todo Indonesia. Este templo está dedicado a Dewi Danu,diosa de aguas.",
+            "img": "assets/ulun-danu.jpg"
+        },
+        {
+            "id": 36,
+            "label": "Pura Tanah Lot",
+            "lat": -8.620893615363547,
+            "lng":   115.08689970760427,
+            "type": "temple_hindu",
+            "description": "Desgajados de la tierra sobre un pedestal de piedra esculpido por las mareas entrantes, las solitarias torres negras del Tanah Lot y los penachos de follaje derramados por los precipicios recuerdan la delicadeza de la pintura china. El Pura Tanah Lot o el Templo de Tierra en Medio del Mar fue construido en el siglo XVI.",
+            "img": "assets/tanah-lot.jpg"
+        },
+        {
+            "id": 37,
+            "label": "Hotel Tejaprana Resort",
+            "lat": -8.410779600722787,
+            "lng":  115.2697622801923,
+            "type": "hotel",
+            "description": "Hotel Tejaprana Resort",
+            "img": "assets/tejaprana-hotel.jpg"
+        }
+    ]
+},
+{
+    "order": 11,
+    "date": "9 de Junio",
+    "island": "Isla de Bali",
+    "locations": [
+        {
+            "id": 38,
+            "label": "Terrazas de Tegallalang",
+            "lat": -8.433828037727798,
+            "lng":  115.27927835574957,
+            "type": "wallpaper",
+            "description": "Famosas por sus hermosas escenas de arrozales que involucran el subak (sistema de irrigación cooperativa balinesa tradicional), que según la historia, fue transmitido por un venerado hombre santo llamado Rsi Markandeya en el siglo VIII. Tegallalang forma los tres paisajes escalonados más espectaculares. Las terrazas de arroz Tegallalang por sí solas ofrecen una perspectiva panorámica que se extiende ante ti y a lo lejos en las laderas del valle.",
+            "img": "assets/tegalalang.jpg"
+        },
+        {
+            "id": 39,
+            "label": "Manantial Tirta Empul",
+            "lat": -8.415512754311544,
+            "lng":  115.31518613087853,
+            "type": "temple_hindu",
+            "description": "Un escenario legendario de una historia tradicional sobre el bien contra el mal. El manantial Tirta Empul alimenta varios baños de purificación, piscinas y estanques de peces que rodean el perímetro exterior y fluyen hacia el río Tukad Pakerisan.",
+            "img": "assets/tirta-empul.jpg"
+        },
+        {
+            "id": 40,
+            "label": "Templo Kehen",
+            "lat": -8.441718505015237,
+            "lng": 115.35988582691333,
+            "type": "temple_hindu",
+            "description": "Antiguo complejo de templos hindúes con características arquitectónicas únicas. Las escaleras que se extienden desde el suelo hasta el patio del templo son figuras míticas de animales de piedra arenisca y estatuas folclóricas balinesas y también el vestíbulo central. Las paredes del templo también están adornadas con platos chinos de porcelana, que son un tributo a las relaciones históricas entre el reino local de Bali y China.",
+            "img": "assets/kehen-temple.jpg"
+        },
+        {
+            "id": 41,
+            "label": "Pueblo de Penglipuran",
+            "lat": -8.42203503126277,
+            "lng":  115.35929526924077,
+            "type": "holiday_village",
+            "description": "Pueblo que logró preservar su bosque de bambú de 75 hectáreas ubicado en la parte norte del pueblo. Los miembros de esta aldea tienen un fuerte compromiso con el sistema de \"ayahan desa\", una filosofía comprometida con el respeto de la tierra en la que se asienta la aldea.",
+            "img": "assets/penglipuran-village.jpg"
+        },
+        {
+            "id": 42,
+            "label": "Hotel Tejaprana Resort",
+            "lat": -8.410779600722787,
+            "lng":  115.2697622801923,
+            "type": "hotel",
+            "description": "Hotel Tejaprana Resort",
+            "img": "assets/tejaprana-hotel.jpg"
+        }
+    ]
+},
+{
+    "order": 12,
+    "date": "10 de Junio",
+    "island": "Isla de Bali",
+    "locations": [
+        {
+            "id": 43,
+            "label": "Hotel Tejaprana Resort",
+            "lat": -8.410779600722787,
+            "lng":  115.2697622801923,
+            "type": "hotel",
+            "description": "Hotel Tejaprana Resort",
+            "img": "assets/tejaprana-hotel.jpg"
+        }
+    ]
+},
+{
+    "order": 13,
+    "date": "11 de Junio",
+    "island": "Isla de Bali",
+    "locations": [
+        {
+            "id": 44,
+            "label": "Hotel Tejaprana Resort",
+            "lat": -8.410779600722787,
+            "lng":  115.2697622801923,
+            "type": "hotel",
+            "description": "Hotel Tejaprana Resort",
+            "img": "assets/tejaprana-hotel.jpg"
+        }
+    ]
+},
+{
+    "order": 14,
+    "date": "12 de Junio",
+    "island": "Nusa Penida",
+    "locations": [
+        {
+            "id": 45,
+            "label": "Puerto de Benoa (Denpasar)",
+            "lat": -8.737327060121828,
+            "lng":  115.21256169762106,
+            "type": "directions_boat",
+            "description": "Puerto de Benoa (Denpasar)",
+            "img": "assets/benoa-port.jpg"
+        },
+        {
+            "id": 46,
+            "label": "Hotel Adiwana Warnakali",
+            "lat": -8.684153112035068,
+            "lng":  115.48289398270795,
+            "type": "hotel",
+            "description": "Hotel Adiwana Warnakali",
+            "img": "assets/adiwana-hotel.jpg"
+        }
+    ]
+},
+{
+    "order": 15,
+    "date": "13 de Junio",
+    "island": "Nusa Penida",
+    "locations": [
+        {
+            "id": 47,
+            "label": "Angel´s Billabong",
+            "lat": -8.733439350316624,
+            "lng":  115.44898017348508,
+            "type": "landslide",
+            "description": "Angel’s Billabong es un paraíso natural en forma de piscina natural donde poder bañarse.",
+            "img": "assets/angels-beach.jpg"
+        },
+        {
+            "id": 48,
+            "label": "Broken Beach",
+            "lat": -8.732667322186591,
+            "lng": 115.45080988771343,
+            "type": "beach_access",
+            "description": "Pequeña bahía que antiguamente era una cueva y ha ido perdiendo el techo con el tiempo. No podemos acceder por tierra pero la vista desde arriba es preciosa y con un poco de suerte, se pueden ver manta rayas gigantes nadando en la superficie.",
+            "img": "assets/broken1-beach.jpg"
+        },
+        {
+            "id": 49,
+            "label": "Kelingking Beach",
+            "lat": -8.750142602578734,
+            "lng": 115.47261106921621,
+            "type": "beach_access",
+            "description": "Una de las playas más famosas y fotografiadas de la isla con sus precipicios y la montaña con forma de mano.",
+            "img": "assets/kelingking-beach.jpg"
+        },
+        {
+            "id": 50,
+            "label": "Crystal Beach",
+            "lat": -8.715370879865969,
+            "lng": 115.45918936921612,
+            "type": "beach_access",
+            "description": "Playa de arena blanca y aguas turquesas donde poder bañarse y practicar snorkeling.",
+            "img": "assets/crystal-beach.jpg"
+        },
+        {
+            "id": 51,
+            "label": "Hotel Adiwana Warnakali",
+            "lat": -8.684153112035068,
+            "lng":  115.48289398270795,
+            "type": "hotel",
+            "description": "",
+            "img": "assets/adiwaana-hotel.jpg"
+        }
+    ]
+},
+{
+    "order": 16,
+    "date": "14 de Junio",
+    "island": "Isla de Bali",
+    "locations": [
+        {
+            "id": 52,
+            "label": "Maison Aurelia",
+            "lat": -8.695404855754841,
+            "lng": 115.26354696807951,
+            "type": "hotel",
+            "description": "",
+            "img": "assets/maison-hotel.jpg"
+        }
+    ]
+},
+{
+    "order": 17,
+    "date": "15 de Junio",
+    "island": "Isla de Flores",
+    "locations": [
+        {
+            "id": 53,
+            "label": "Aeropuerto de Denpasar",
+            "lat": -8.74407253342249,
+            "lng": 115.16751279023997,
+            "type": "flight_takeoff",
+            "description": "Aeropuerto Internacional Ngurah Rai en Denpasar",
+            "img": "assets/dps-aeropuerto.jpg"
+        },
+        {
+            "id": 54,
+            "label": "Aeropuerto de Labuan Bajo",
+            "lat": -8.488310499844845,
+            "lng": 119.8874530557218,
+            "type": "flight_land",
+            "description": "Aeropuerto Internacional de Komodo en Labuan Bajo",
+            "img": "assets/komodo-airport.jpg"
+        },
+        {
+            "id": 54,
+            "label": "Muelle de Labuan Bajo",
+            "lat": -8.491715342319099,
+            "lng":  119.87562628691695,
+            "type": "directions_boat",
+            "description": "Nuestro guía nos estará esperando para embarcar en el barco tradicional con el que navegaremos los dos días siguientes.",
+            "img": "assets/labuan-port.jpg"
+        },
+        {
+            "id": 55,
+            "label": "Snorkeling en Isla Menjarite",
+            "lat": -8.547912430885166,
+            "lng":  119.81490385802964,
+            "type": "sailing",
+            "description": "Snorkeling en Isla Menjarite",
+            "img": "assets/menjarite-island.jpg"
+        },
+        {
+            "id": 56,
+            "label": "Isla Kalong o del zorro volador",
+            "lat": -8.61054050586639,
+            "lng":  119.48635467116385,
+            "type": "sailing",
+            "description": "Nos acercaremos a la Isla Kalong o del zorro volador donde podremos ver los increíbles miles de zorros voladores que salen de los manglares a la hora del atardecer y contemplar la hermosa puesta de sol desde el barco.",
+            "img": "assets/kalong2-island.jpg"
+        },
+        {
+            "id": 57,
+            "label": "Noche en barco tradicional",
+            "lat": -8.61054050586639,
+            "lng":  119.48635467116385,
+            "type": "houseboat",
+            "description": "Noche en barco tradicional",
+            "img": "assets/komodo-boat.jpg"
+        }
+    ]
+},
+{
+    "order": 18,
+    "date": "16 de Junio",
+    "island": "Isla de Komodo",
+    "locations": [
+        {
+            "id": 58,
+            "label": "Trekking en Isla de Padar",
+            "lat": -8.651311316927162,
+            "lng": 119.58671910826523,
+            "type": "hiking",
+            "description": "En la Isla de Padar haremos el trekking que nos llevará directos a la famosa vista de las tres bahías.",
+            "img": "assets/padar-island.jpg"
+        },
+        {
+            "id": 59,
+            "label": "P.N Loh Liang(Komodo)",
+            "lat": -8.580021715786586,
+            "lng": 119.44140453637503,
+            "type": "pets",
+            "description": "Después de registrarse, haremos un trekking suave para ver el gigante rizard/dragón de komodo y otros animales salvajes como: el ciervo de Timor, jabalí, pollo salvaje y muchas especies de aves tropicales.",
+            "img": "assets/pn-komodo.jpg"
+        },
+        {
+            "id": 60,
+            "label": "Snorkeling en Pink Beach",
+            "lat": -8.653879843526756,
+            "lng":  119.55975708089674,
+            "type": "sailing",
+            "description": "Playa de arena rosa donde relajarse y practicar snorkeling disfrutando de su arrecife de coral virgen y sus peces de colores.",
+            "img": "assets/pink-beach.jpg"
+        },
+        {
+            "id": 61,
+            "label": "Snorkeling en Manta Point",
+            "lat": -8.547716241381739,
+            "lng":  119.61749474234395,
+            "type": "sailing",
+            "description": "Punto de avistamiento de manta rayas y si las condiciones lo permiten, podremos nadar y bucear junto a ellas.",
+            "img": "assets/mantapoint-beach.jpg"
+        },
+        {
+            "id": 62,
+            "label": "Noche en barco tradicional",
+            "lat": -8.61054050586639,
+            "lng":  119.48635467116385,
+            "type": "houseboat",
+            "description": "",
+            "img": "assets/komodo-boat.jpg"
+        }
+    ]
+},
+{
+    "order": 19,
+    "date": "17 de Junio",
+    "island": "Isla de Gili Air",
+    "locations": [
+        {
+            "id": 63,
+            "label": "Aeropuerto de Labuan Bajo",
+            "lat": -8.487847730477402,
+            "lng": 119.88732007812357,
+            "type": "flight_takeoff",
+            "description": "Aeropuerto Internacional de Komodo en Labuan Bajo",
+            "img": "assets/komodo-airport.jpg"
+        },
+        {
+            "id": 64,
+            "label": "Aeropuerto de Denpasar",
+            "lat": -8.74407253342249,
+            "lng": 115.16751279023997,
+            "type": "flight_land",
+            "description": "Aeropuerto Internacional Ngurah Rai en Denpasar",
+            "img": "assets/dps-aeropuerto.jpg"
+        },
+        {
+            "id": 65,
+            "label": "Puerto de Gili Air",
+            "lat": -8.363447962147617,
+            "lng":  116.08313047966512,
+            "type": "directions_boat",
+            "description": "Puerto de Gili Air",
+            "img": "assets/giliair-port.jpg"
+        },
+        {
+            "id": 66,
+            "label": "Hotel Akasia Villa",
+            "lat": -8.35388321302648,
+            "lng":  116.08312240047536,
+            "type": "hotel",
+            "description": "Hotel Akasia Villa",
+            "img": "assets/akasia-hotel.jpg"
+        }
+    ]
+},
+{
+    "order": "20,21,22,23",
+    "date": "18-21 de Junio",
+    "island": "Isla de Gili Air",
+    "locations": [
+        {
+            "id": 67,
+            "label": "Hotel Akasia Villa",
+            "lat": -8.35388321302648,
+            "lng":  116.08312240047536,
+            "type": "hotel",
+            "description": "Hotel Akasia Villa",
+            "img": "assets/akasia-hotel.jpg"
+        }
+    ]
+},
+{
+    "order": "24",
+    "date": "22-23 de Junio",
+    "island": "Isla de Gili Air",
+    "locations": [
+        {
+            "id": 68,
+            "label": "Puerto de Gili Air",
+            "lat": -8.363447962147617,
+            "lng":  116.08313047966512,
+            "type": "directions_boat",
+            "description": "Puerto de Gili Air",
+            "img": "assets/giliair-port.jpg"
+        },
+        {
+            "id": 69,
+            "label": "Aeropuerto de Lombok",
+            "lat": -8.76171101563263,
+            "lng": 116.27348685971508,
+            "type": "flight_takeoff",
+            "description": "Aeropuerto Internacional Zainuddin Abdul Madjid en Lombok",
+            "img": "assets/lombok-airport.jpg"
+        },
+        {
+            "id": 70,
+            "label": "Jakarta Airport",
+            "lat": -6.19138433712882, 
+            "lng": 106.8440013947889,
+            "type": "flight_land",
+            "description":"Jakarta Airport",
+            "img": "assets/jakarta-airport.jpg"
+        },
+        {
+            "id": 71,
+            "label": "Jakarta Airport",
+            "lat": -6.19138433712882, 
+            "lng": 106.8440013947889,
+            "type": "flight_takeoff",
+            "description":"Jakarta Airport",
+            "img": "assets/jakarta-airport.jpg"
+        },
+        {
+            "id": 72,
+            "label": "¡Rumahku!",
+            "lat": 43.370980721721374, 
+            "lng":  -8.39587754831988,
+            "type": "hotel",
+            "description": "¡Rumahku!, que traducido al castellano significa ¡Hogar, dulce hogar!",
+            "img": "assets/corunna.jpg"
+        }
+    ]
+}
+]
